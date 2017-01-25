@@ -1,4 +1,4 @@
-Puddle Predict is currently under development. Contact TODO if you would like to be notified when it is released.
+Puddle Predict is currently under development. Contact allenokullo.c@gmail.com if you would like to be notified when it is released.
 
 ### Screenshots
 
